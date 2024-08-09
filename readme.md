@@ -1,3 +1,5 @@
 # VPHP.DEV
 
-Made with Astro 🤗
+- Source files for [vphp.dev](https://vphp.dev)
+
+- Created with [astro](https://astro.build)
