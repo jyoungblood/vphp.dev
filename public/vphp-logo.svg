@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1120px" height="416px" viewBox="0 0 1120 416" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1170px" height="416px" viewBox="0 0 1170 416" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
     <title>vanillaphp</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="PHP-Copy-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="344" font-weight="bold" letter-spacing="-4.3" fill="#000000">
-            <tspan x="354" y="330">PHP</tspan>
+        <text id="PHP-Copy-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="344" font-weight="bold" letter-spacing="-3" fill="#000000">
+            <tspan x="385" y="330">PHP</tspan>
         </text>
-        <rect id="Rectangle-Copy-2" stroke="#000000" stroke-width="40" x="34" y="28" width="1066" height="357" rx="64"></rect>
-        <rect id="Rectangle-Copy-3" fill="#000000" x="30" y="8" width="240" height="369" rx="64"></rect>
-        <rect id="Rectangle-Copy-4" fill="#000000" x="151" y="8" width="184" height="376"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#000000" stroke-width="40" x="20" y="28" width="1127" height="357" rx="64"></rect>
+        <rect id="Rectangle-Copy-3" fill="#000000" x="0" y="8" width="240" height="369" rx="64"></rect>
+        <rect id="Rectangle-Copy-4" fill="#000000" x="181" y="8" width="184" height="376"></rect>
         <text id="V-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="344" font-weight="bold" fill="#FFFFFF">
-            <tspan x="72" y="332">V</tspan>
+            <tspan x="81" y="334">V</tspan>
         </text>
     </g>
 </svg>
